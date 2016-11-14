@@ -50,10 +50,9 @@ samba用于和windows系统共享文件，使用以下代码创建同名的samba
 
 ### 2. 用户登陆
 使用新创建的用户登陆服务器
-
 ![登陆服务器](https://i.imgur.com/ErV8HmC.png)
-使用默认桌面设置
 
+使用默认桌面设置
 ![桌面设置](https://i.imgur.com/YEduZhj.png)
 
 ### 3. 使用
